@@ -913,9 +913,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f244ec469ea12314681e769c13ae6560, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainCamera: {fileID: 534669904}
-  hoodCamera: {fileID: 855935363}
-  switchKey: 102
 --- !u!4 &2007538408 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 436868, guid: 70bf34f6c25c948458f254e87188b00b, type: 3}
